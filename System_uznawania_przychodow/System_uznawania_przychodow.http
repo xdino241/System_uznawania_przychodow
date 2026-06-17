@@ -1,0 +1,6 @@
+@System_uznawania_przychodow_HostAddress = http://localhost:5075
+
+GET {{System_uznawania_przychodow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
